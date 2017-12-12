@@ -1,0 +1,52 @@
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\obj\Debug\DeveloperDashboard.csprojResolveAssemblyReference.cache
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\obj\Debug\DeveloperDashboard.csproj.CoreCompileInputs.cache
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\ProgrammerData.mdf
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\ProgrammerData_log.ldf
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\DeveloperDashboard.exe.config
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\DeveloperDashboard.exe
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\DeveloperDashboard.pdb
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\EntityFramework.dll
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\EntityFramework.xml
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\obj\Debug\DeveloperDashboard.exe
+C:\Users\patza\Desktop\DeveloperDashboard\DeveloperDashboard\obj\Debug\DeveloperDashboard.pdb
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\Data\ProgrammerData.mdf
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\Data\ProgrammerData_log.ldf
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\DeveloperDashboard.exe.config
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\DeveloperDashboard.exe
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\DeveloperDashboard.pdb
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\EntityFramework.dll
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\EntityFramework.xml
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\obj\Debug\DeveloperDashboard.csprojResolveAssemblyReference.cache
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\obj\Debug\DeveloperDashboard.csproj.CoreCompileInputs.cache
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\obj\Debug\DeveloperDashboard.exe
+C:\Users\patza\Desktop\DeveloperDashboard - DEV\DeveloperDashboard\obj\Debug\DeveloperDashboard.pdb
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\Data\ProgrammerData.mdf
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\Data\ProgrammerData_log.ldf
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\DeveloperDashboard.exe.config
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\DeveloperDashboard.exe
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\DeveloperDashboard.pdb
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\EntityFramework.dll
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\EntityFramework.xml
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\obj\Debug\DeveloperDashboard.csprojResolveAssemblyReference.cache
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\obj\Debug\DeveloperDashboard.csproj.CoreCompileInputs.cache
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\obj\Debug\DeveloperDashboard.exe
+C:\Users\patza\Desktop\finalBackUP\DeveloperDashboard\obj\Debug\DeveloperDashboard.pdb
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\Data\ProgrammerData.mdf
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\Data\ProgrammerData_log.ldf
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\DeveloperDashboard.exe.config
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\DeveloperDashboard.exe
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\DeveloperDashboard.pdb
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\EntityFramework.dll
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\EntityFramework.xml
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\obj\Debug\DeveloperDashboard.csprojResolveAssemblyReference.cache
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\obj\Debug\DeveloperDashboard.csproj.CoreCompileInputs.cache
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\obj\Debug\DeveloperDashboard.exe
+C:\Users\patza\Desktop\CIT255FinalApplication\DeveloperDashboard\obj\Debug\DeveloperDashboard.pdb
